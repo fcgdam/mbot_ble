@@ -5,6 +5,7 @@ This program uses NodeJS and the Bleno library to connect to an mbot BLE enabled
 To use it:
 
 npm install
+
 sudo node mbotble.js
 
 Make sure that Bluetooth is enabled and the bluetooth device supports BLE.
