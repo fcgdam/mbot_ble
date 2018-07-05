@@ -1,0 +1,22 @@
+{
+  "name": "blembot",
+  "version": "1.0.0",
+  "description": "BLE bridge to mBot BLE module",
+  "main": "blembot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.ecortex.myds.me/fdam/BLEMbot.git"
+  },
+  "keywords": [
+    "BLE",
+    "mbot"
+  ],
+  "author": "fcgdam",
+  "license": "ISC",
+  "dependencies": {
+    "noble": "^1.9.1"
+  }
+}
